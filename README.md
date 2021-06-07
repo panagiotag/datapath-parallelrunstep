@@ -46,7 +46,7 @@ By default, the “Machine Learning data path assignments” is not populated. T
 ```
 Once you save the changes you made in the JSON, the data path assignments field will be populated and you will be able to make changes there. 
 
-![image](images/screenshot2.png)
+![image](images/screenshot2.PNG)
 
 ### Reference links
 
